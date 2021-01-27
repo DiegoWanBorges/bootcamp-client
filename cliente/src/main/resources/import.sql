@@ -7,4 +7,4 @@ INSERT INTO tb_client(name, cpf, income, birth_Date, children,created_at) VALUES
 INSERT INTO tb_client(name, cpf, income, birth_Date, children,created_at) VALUES ('Antonio Chico da Silva', '423456789',920.52 ,TIMESTAMP WITH TIME ZONE '1985-08-01T23:30:00.0Z', 2,now());
 INSERT INTO tb_client(name, cpf, income, birth_Date, children,created_at) VALUES ('Tereza Christina Almeida', '323456789',5620.52 ,TIMESTAMP WITH TIME ZONE '1985-08-01T23:30:00.0Z', 4,now());
 INSERT INTO tb_client(name, cpf, income, birth_Date, children,created_at) VALUES ('Debson Farias', '223456789',2020.52 ,TIMESTAMP WITH TIME ZONE '1985-08-01T23:30:00.0Z', 1,now());
-INSERT INTO tb_client(name, cpf, income, birth_Date, children,created_at) VALUES ('Chico Aguiar', '023456789',1561.52 ,TIMESTAMP WITH TIME ZONE '1985-08-01T23:30:00.0Z', 3,now());
+INSERT INTO tb_client(name, cpf, income, birth_Date, children,created_at) VALUES ('Chico Aguiar de Souza', '023456789',1561.52 ,TIMESTAMP WITH TIME ZONE '1985-08-01T23:30:00.0Z', 3,now());
