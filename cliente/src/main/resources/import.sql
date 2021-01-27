@@ -1,0 +1,10 @@
+INSERT INTO tb_client(name, cpf, income, birth_Date, children,created_at) VALUES ('Maria de Almeida', '123456789',1520.52 ,TIMESTAMP WITH TIME ZONE '1985-08-01T23:30:00.0Z', 3,now());
+INSERT INTO tb_client(name, cpf, income, birth_Date, children,created_at) VALUES ('João Aparecido', '923456789',1320.52 ,TIMESTAMP WITH TIME ZONE '1985-08-01T23:30:00.0Z', 2,now());
+INSERT INTO tb_client(name, cpf, income, birth_Date, children,created_at) VALUES ('Joana Silva', '823456789',1920.52 ,TIMESTAMP WITH TIME ZONE '1985-08-01T23:30:00.0Z', 4,now());
+INSERT INTO tb_client(name, cpf, income, birth_Date, children,created_at) VALUES ('Elizabet Toledo', '723456789',1960.52 ,TIMESTAMP WITH TIME ZONE '1985-08-01T23:30:00.0Z', 5,now());
+INSERT INTO tb_client(name, cpf, income, birth_Date, children,created_at) VALUES ('Creuza Aguiar', '623456789',2020.52 ,TIMESTAMP WITH TIME ZONE '1985-08-01T23:30:00.0Z', 1,now());
+INSERT INTO tb_client(name, cpf, income, birth_Date, children,created_at) VALUES ('Clair Ricone', '523456789',5020.52 ,TIMESTAMP WITH TIME ZONE '1985-08-01T23:30:00.0Z', 1,now());
+INSERT INTO tb_client(name, cpf, income, birth_Date, children,created_at) VALUES ('Antonio Chico da Silva', '423456789',920.52 ,TIMESTAMP WITH TIME ZONE '1985-08-01T23:30:00.0Z', 2,now());
+INSERT INTO tb_client(name, cpf, income, birth_Date, children,created_at) VALUES ('Tereza Christina Almeida', '323456789',5620.52 ,TIMESTAMP WITH TIME ZONE '1985-08-01T23:30:00.0Z', 4,now());
+INSERT INTO tb_client(name, cpf, income, birth_Date, children,created_at) VALUES ('Debson Farias', '223456789',2020.52 ,TIMESTAMP WITH TIME ZONE '1985-08-01T23:30:00.0Z', 1,now());
+INSERT INTO tb_client(name, cpf, income, birth_Date, children,created_at) VALUES ('Chico Aguiar', '023456789',1561.52 ,TIMESTAMP WITH TIME ZONE '1985-08-01T23:30:00.0Z', 3,now());
